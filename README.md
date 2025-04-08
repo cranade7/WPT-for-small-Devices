@@ -21,4 +21,4 @@ This project demonstrates the design and simulation of a wireless power transfer
 - `WPT_Circuit_EE584.slx` – MATLAB Simulink model of the WPT system
 - `Helical_Coil_EE584.aedt` – Ansys model for the helical coil design
 - `Spriral coil WPT_EE584.aedt` – Ansys model for the spiral coil design
-- `Template_for__the_Final_Report_of_EE584_Course_Project_Fall_2023__Sowjanya_and_Chinmay (2).pdf` – Final project report
+- `Report' – Final project report
